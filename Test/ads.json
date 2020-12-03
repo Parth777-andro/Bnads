@@ -1,9 +1,44 @@
 [
 		{
 		"bnimg": "https://raw.githubusercontent.com/Parth777-andro/Bnads/main/Test/59219_banner1.jpg",
-			"text": "Download Now",
-		"link": "https://play.google.com/store/apps/details?id=hindi.thought.alfaazkasafar"
-	}
-
+		"link": "Cricket",
+		"text": "asd"
 		
+	}, 
+		{
+		"bnimg": "nadim",
+		"link": "Gardening",
+				"text": "asd"
+
+	}, 
+		{
+		"bnimg": "Jasim",
+		"link": "Cricket",
+				"text": "asd"
+
+	}, 
+		{
+		"bnimg": "Layla",
+		"link": "Gardening",
+				"text": "asd"
+
+	}, 
+		{
+		"bnimg": "Lal mia",
+		"link": "Shooting",
+				"text": "asd"
+
+	},
+		{
+		"bnimg": "Lal mia",
+		"link": "Shooting",
+				"text": "asd"
+
+	},
+		{
+		"bnimg": "Lal mia",
+		"link": "Shooting",
+				"text": "asd"
+
+	}
 ]
