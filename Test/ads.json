@@ -1,30 +1,9 @@
 [
 		{
-		"bnimg": "ashiqul islam",
-		"link": "Cricket"
-	}, 
-		{
-		"bnimg": "nadim",
-		"link": "Gardening"
-	}, 
-		{
-		"bnimg": "Jasim",
-		"link": "Cricket"
-	}, 
-		{
-		"bnimg": "Layla",
-		"link": "Gardening"
-	}, 
-		{
-		"bnimg": "Lal mia",
-		"link": "Shooting"
-	},
-		{
-		"bnimg": "Lal mia",
-		"link": "Shooting"
-	},
-		{
-		"bnimg": "Lal mia",
-		"link": "Shooting"
+		"bnimg": "https://raw.githubusercontent.com/Parth777-andro/Bnads/main/Test/59219_banner1.jpg",
+			"text": "Download Now",
+		"link": "https://play.google.com/store/apps/details?id=hindi.thought.alfaazkasafar"
 	}
+
+		
 ]
