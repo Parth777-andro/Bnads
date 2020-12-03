@@ -1,6 +1,30 @@
-{
-  "bnimg":[
-    ],
-  "link":[
-    ]
-  }
+[
+		{
+		"name": "ashiqul islam",
+		"hobby": "Cricket"
+	}, 
+		{
+		"name": "nadim",
+		"hobby": "Gardening"
+	}, 
+		{
+		"name": "Jasim",
+		"hobby": "Cricket"
+	}, 
+		{
+		"name": "Layla",
+		"hobby": "Gardening"
+	}, 
+		{
+		"name": "Lal mia",
+		"hobby": "Shooting"
+	},
+		{
+		"name": "Lal mia",
+		"hobby": "Shooting"
+	},
+		{
+		"name": "Lal mia",
+		"hobby": "Shooting"
+	}
+]
