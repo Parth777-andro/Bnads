@@ -1,39 +1,30 @@
 [
-	{
-		"bnimg": "ashiqul islam",
-		"link": "Cricket",
-		"text": "asd"
+		{
+		"name": "ashiqul islam",
+		"hobby": "Cricket"
 	}, 
-	{
-		"bnimg": "nadim",
-		"link": "Gardening",
-		"text": "asd"
+		{
+		"name": "nadim",
+		"hobby": "Gardening"
 	}, 
-	{
-		"bnimg": "Jasim",
-		"link": "Cricket",
-		"text": "asd"
+		{
+		"name": "Jasim",
+		"hobby": "Cricket"
 	}, 
-	{
-		"bnimg": "Layla",
-		"link": "Gardening",
-		"text": "asd"
+		{
+		"name": "Layla",
+		"hobby": "Gardening"
 	}, 
-	{
-		"bnimg": "Lal mia",
-		"link": "Shooting",
-		"text": "asd"
-
+		{
+		"name": "Lal mia",
+		"hobby": "Shooting"
 	},
-	{
-		"bnimg": "Lal mia",
-		"link": "Shooting",
-		"text": "asd"
-
+		{
+		"name": "Lal mia",
+		"hobby": "Shooting"
 	},
-	{
-		"bnimg": "Lal mia",
-		"link": "Shooting",
-		"text": "asd"
+		{
+		"name": "Lal mia",
+		"hobby": "Shooting"
 	}
 ]
