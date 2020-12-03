@@ -1,44 +1,39 @@
 [
-		{
-		"bnimg": "https://raw.githubusercontent.com/Parth777-andro/Bnads/main/Test/59219_banner1.jpg",
+	{
+		"bnimg": "ashiqul islam",
 		"link": "Cricket",
 		"text": "asd"
-		
 	}, 
-		{
+	{
 		"bnimg": "nadim",
 		"link": "Gardening",
-				"text": "asd"
-
+		"text": "asd"
 	}, 
-		{
+	{
 		"bnimg": "Jasim",
 		"link": "Cricket",
-				"text": "asd"
-
+		"text": "asd"
 	}, 
-		{
+	{
 		"bnimg": "Layla",
 		"link": "Gardening",
-				"text": "asd"
-
+		"text": "asd"
 	}, 
-		{
+	{
 		"bnimg": "Lal mia",
 		"link": "Shooting",
-				"text": "asd"
+		"text": "asd"
 
 	},
-		{
+	{
 		"bnimg": "Lal mia",
 		"link": "Shooting",
-				"text": "asd"
+		"text": "asd"
 
 	},
-		{
+	{
 		"bnimg": "Lal mia",
 		"link": "Shooting",
-				"text": "asd"
-
+		"text": "asd"
 	}
 ]
