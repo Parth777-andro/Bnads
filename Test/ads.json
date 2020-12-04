@@ -1,19 +1,23 @@
 [
 	{
 		"bnimg": "https://raw.githubusercontent.com/Parth777-andro/Bnads/main/Test/59219_banner1.jpg",
-		"link": "https://play.google.com/store/search?q=snake%20video&c=apps&hl=en&gl=in"
+		"link": "https://play.google.com/store/search?q=snake%20video&c=apps&hl=en&gl=in",
+		"txt": "Test 1"
 	}, 
 	{
 		"bnimg": "https://raw.githubusercontent.com/Parth777-andro/Bnads/main/Test/59219_banner1.jpg",
-		"link": "https://play.google.com/store/search?q=snake%20video&c=apps&hl=en&gl=in"
+		"link": "https://play.google.com/store/search?q=snake%20video&c=apps&hl=en&gl=in",
+		"txt": "Test 2"
 	}, 
 	{
 		"bnimg": "https://raw.githubusercontent.com/Parth777-andro/Bnads/main/Test/59219_banner1.jpg",
-		"link": "https://play.google.com/store/search?q=snake%20video&c=apps&hl=en&gl=in"
+		"link": "https://play.google.com/store/search?q=snake%20video&c=apps&hl=en&gl=in",
+		"txt": "Test 3"
 	},
 	{
 		"bnimg": "https://raw.githubusercontent.com/Parth777-andro/Bnads/main/Test/59219_banner1.jpg",
-		"link": "https://play.google.com/store/search?q=snake%20video&c=apps&hl=en&gl=in"
+		"link": "https://play.google.com/store/search?q=snake%20video&c=apps&hl=en&gl=in",
+		"txt": "Test 4"
 	}
 	
 ]
